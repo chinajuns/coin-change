@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS `users`;
+DROP TABLE IF EXISTS `user_algebra`;
+DROP TABLE IF EXISTS `user_cash_info`;
+DROP TABLE IF EXISTS `user_chat`;
+DROP TABLE IF EXISTS `user_profiles`;
+DROP TABLE IF EXISTS `user_real`;
+DROP TABLE IF EXISTS `users_insurances`;
+DROP TABLE IF EXISTS `users_wallet`;
+DROP TABLE IF EXISTS `users_wallet_out`;
+DROP TABLE IF EXISTS `wallet_log`;

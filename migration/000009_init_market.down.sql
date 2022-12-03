@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS `market`;
+DROP TABLE IF EXISTS `market_day`;
+DROP TABLE IF EXISTS `market_hour`;

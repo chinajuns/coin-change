@@ -1,0 +1,6 @@
+storage/
+.vscode/
+test/
+gin.log
+.idea/
+okc
